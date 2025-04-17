@@ -89,6 +89,8 @@ function Home() {
                     <option value="NSW">Nintendo Switch</option>
                     <option value="PC">PC</option>
                 </select>
+                <br />
+                <br />
                 <label htmlFor="description">Description:</label>
                 <br />
                 <textarea
